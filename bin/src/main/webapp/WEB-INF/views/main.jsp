@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Git branch test 프로젝트입니다</h1>
-	<button onclick></button>
+
 </body>
 </html>
